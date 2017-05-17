@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=+5 Pin=P5-23
+Change Component Designator: OldDesignator=STM32F103/LQFP64 NewDesignator=U2
+Added Pin To Net: NetName=PD2 Pin=P5-23
+Added Room: Name=STM32F103RB最小系统_RV2
